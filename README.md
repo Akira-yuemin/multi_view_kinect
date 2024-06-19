@@ -1,6 +1,6 @@
 # multi_view_kinect
 
-A more efficient way (applying gpu) to turn on the kinect camera depth image, color image, infrared image and 3d point cloud at the same time and correct all viewpoints to achieve an output of more than 25 frames per second.
+A more efficient way (applying gpu) to turn on the kinect camera depth image, color image, infrared image and 3d point cloud at the same time and correct all viewpoints to achieve an output of more than 25 FPS
 
 Reproduce the official microsoft azure kinect sdk viewer
 
