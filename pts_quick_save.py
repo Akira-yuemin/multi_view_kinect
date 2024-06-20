@@ -54,6 +54,8 @@ device = pykinect.start_device(config=device_config)
 index = 0
 stack = []
 path = 'F:/cuhk/MOIVEWORKSHOP/output/points/'
+
+### total frames want to save
 total_num = 20
 
 while index <= total_num:
